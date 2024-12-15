@@ -1,0 +1,32 @@
+{
+"author":
+    {
+    "email": "Qriist+Null@gmail.com",
+    "name": "Qriist",
+    "website": ""
+    },
+"bugs":
+    {
+    "url": "https://github.com/Qriist/Null/issues"
+    },
+"dependencies":
+    {
+    
+    },
+"description": "Implements a Null type into AHKv2.",
+"homepage": "",
+"keywords":
+    [
+    "Null",
+	"types"
+    ],
+"license": "",
+"main": "Null.ahk",
+"name": "Qriist/Null",
+"repository":
+    {
+    "type": "github",
+    "url": "Qriist/Null"
+    },
+"version": "v1.0.0"
+}
